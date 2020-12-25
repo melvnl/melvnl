@@ -3,7 +3,7 @@
 <!--
 **melvnl/melvnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a computer science student at [Binus University, Indonesia](https://www.instagram.com/). Currently building a software house company called [Enterdigital](https://www.instagram.com/enterdigital.id/) where we design & build Web, Mobile App to make entrepreneurship easier. I'm experienced with Frontend Development with VueJs,CSS Pre-processor and Flutter for Hybrid app.
+I'm a computer science student at [Binus University, Indonesia](https://www.instagram.com/binusuniversityofficial/). Currently building a software house company called [Enterdigital](https://enterdigital-lab.com) where we design & build Web, Mobile App to make entrepreneurship easier. I'm experienced with Frontend Development with VueJs, NuxtJs, CSS Pre-processor and Flutter for Hybrid app.
 
 Aside, I'm also Core Team member at [Developer Student Clubs Indonesia](https://dsc.community.dev/binus-university-anggrek-campus/) and [a Freelance Web Developer](https://bymelvn.com/)
 
@@ -13,5 +13,5 @@ Aside, I'm also Core Team member at [Developer Student Clubs Indonesia](https://
 
 ### Languages & Frameworks
 - Python, Dart, Flutter
-- Javascript, Vue Js, React Js
-- Node, MERN Stack
+- Javascript, Vue Js,Nuxt Js, React Js
+- MERN Stack
