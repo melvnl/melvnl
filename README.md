@@ -7,8 +7,8 @@ I'm a computer science student at [Binus University, Indonesia](https://www.inst
 
 Aside, I'm also Core Team member at [Developer Student Clubs Indonesia](https://dsc.community.dev/binus-university-anggrek-campus/) and [a Freelance Web Developer](https://enterdigital-lab.com/)
 
-<!-- 🔭 I’m currently working on few projects -->
 - 📫 How to reach me: [linkedin.com/in/melvin-liu/](https://www.linkedin.com/in/melvin-liu/)
+- 🎨 Judge my design at [dribbble](https://dribbble.com/bymelvn)
 - ⚡ Fun fact: I was born in Tokyo :)
 
 ### Skills or Interests
