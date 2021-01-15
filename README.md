@@ -14,4 +14,4 @@ Aside, I'm also Core Team member at [Developer Student Clubs Indonesia](https://
 ### Interests
 - React Native
 - MERN Stack
-- ERP and LMS seems cool ?
+- ERP and LMS seem cool ?
