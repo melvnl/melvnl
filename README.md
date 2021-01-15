@@ -11,9 +11,7 @@ Aside, I'm also Core Team member at [Developer Student Clubs Indonesia](https://
 - 🎨 Judge my design at [dribbble](https://dribbble.com/bymelvn)
 - ⚡ Fun fact: I was born in Tokyo :)
 
-### Skills or Interests
-- Python, Dart, Flutter, React Native
-- Bootstrap , Tailwind CSS
-- Typescript, Vue Js,Nuxt Js, React Js
-- GraphQL
-- MERN
+### Interests
+- React Native
+- MERN Stack
+- ERP and LMS seems cool ?
