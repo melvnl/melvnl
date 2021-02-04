@@ -3,7 +3,7 @@
 <!--
 **melvnl/melvnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a computer science student at [Binus University, Indonesia](https://www.instagram.com/binusuniversityofficial/). Aside, I'm also Core Team member at [Developer Student Clubs Indonesia](https://dsc.community.dev/binus-university-anggrek-campus/) and Founder of [Enterdigital](https://enterdigital-lab.com/). Currently working at several places as Junior Software Engineer and Junior UI/UX Designer.
+I'm a computer science student at [Binus University, Indonesia](https://www.instagram.com/binusuniversityofficial/). Aside, I'm also Core Team member at [Developer Student Clubs Indonesia](https://dsc.community.dev/binus-university-anggrek-campus/) and Founder of [Enterdigital](https://www.instagram.com/enterdigital.lab/). Currently working at several places as Junior Software Engineer and sometimes UI/UX Designer.
 
 
 - 📫 How to reach me: [linkedin.com/in/melvin-liu/](https://www.linkedin.com/in/melvin-liu/)
