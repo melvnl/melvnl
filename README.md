@@ -8,6 +8,6 @@ I'm a computer science student at [Binus University, Indonesia](https://www.inst
 - Software Development Studio called [Enterdigital](https://www.instagram.com/enterdigital.lab/) as Software Engineer
 
 
-- 📫 How to reach me: [linkedin.com/in/melvin-liu/](https://www.linkedin.com/in/melvin-liu/)
-- 🎨 Judge my design at [dribbble](https://dribbble.com/bymelvn)
-- ⚡ Fun fact: I was born in Tokyo :)
+📫 How to reach me: [linkedin.com/in/melvin-liu/](https://www.linkedin.com/in/melvin-liu/)
+🎨 Judge my design at [dribbble](https://dribbble.com/bymelvn)
+⚡ Fun fact: I was born in Tokyo :)
