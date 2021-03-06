@@ -13,3 +13,4 @@ I'm a computer science student at [Binus University, Indonesia](https://www.inst
 ### Others
 📫 How to reach me: [linkedin.com/in/melvin-liu/](https://www.linkedin.com/in/melvin-liu/)\
 ⚡ Fun fact: I was born in Tokyo :)
+🌐 Website : [melvinliu.com](https://melvinliu.com/)  
