@@ -7,7 +7,7 @@ I'm a computer science student at [Binus University, Indonesia](https://www.inst
 
 ### Using
 💻 ASUS X550 J  
-⌨️ RexuS MX5.1 Legionare
+⌨️ Rexus MX5.1 Legionare
 
 
 ### Others
