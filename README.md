@@ -9,6 +9,9 @@ I'm a computer science student at [Binus University, Indonesia](https://www.inst
 💻 ASUS X550 J  
 ⌨️ Rexus MX5.1 Legionare
 
+### Currently Building
+[https://julizar.id/id](Julizar)  
+[https://enterdigital-lab.com/](Enterdigital)  
 
 ### Others
 📫 How to reach me: [linkedin.com/in/melvin-liu/](https://www.linkedin.com/in/melvin-liu/)\
