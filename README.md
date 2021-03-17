@@ -9,9 +9,9 @@ I'm a computer science student at [Binus University, Indonesia](https://www.inst
 ⌨️ Rexus MX5.1 Legionare
 
 ### Currently Building
-[https://julizar.id/id](Equity Crowdfunding)  
-[https://konsultan.julizar.com/id](Property Consultant Company)  
-[https://enterdigital-lab.com/](Enter Digital Asia)    
+[Equity Crowdfunding](https://julizar.id/id)  
+[Property Consultant Company](https://konsultan.julizar.com/id)  
+[Software Development Agency](https://enterdigital-lab.com/)    
 
 ### Others
 📫 How to reach me: [linkedin.com/in/melvin-liu/](https://www.linkedin.com/in/melvin-liu/)\
