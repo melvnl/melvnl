@@ -1,2 +1,11 @@
-[![Melvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=melvnl&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvnl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Melvin Liu
+
+👋 Hai, I'm Melvin, a Software Engineer since 2019. Currently working as a Software Engineer Intern at Tanifund
+
+Frontend Tech Stack: Javascript/Typescript, SCSS, Tailwind, Jest(Unit testing)
+Container: Docker
+Version Control: Github/Gitlab
+
+### 💬 Get in touch with me
+- Site: [https://isfa.xyz/](https://www.melvinliu.com/)
+- Linkedin: [@Melvin Liu](https://www.linkedin.com/in/melvin-liu/)
