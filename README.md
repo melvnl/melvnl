@@ -1,7 +1,11 @@
 ## Melvin Liu
 
-👋 Hai, I'm Melvin, a Software Engineer since 2019, I aim to be a frontend domain expert but I am comportable with several backend languages and concept (concurency, memory,etc) as well.  
+👋 Hi there, I'm Melvin, a Software Engineer based in Indonesia, I work with Javascript all the time.
+🌱 I was born in Japan  
+👅 I speak Indonesia, English and Mandarin  
+🎥 I make [youtube](https://www.youtube.com/channel/UCa9w-ZqW-un9sgwHcmh-Nng) videos sometimes  
+✍️ I write blog about software engineering on [medium](	https://medium.com/@melvn23)  
 
 ### 💬 Get in touch with me
-- Site: [https://melvinliu.com/](https://www.melvinliu.com/)
+- Instagram: [@melvn23](https://www.instagram.com/mlven23/)
 - Linkedin: [@Melvin Liu](https://www.linkedin.com/in/melvin-liu/)
