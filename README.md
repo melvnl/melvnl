@@ -1,8 +1,3 @@
-👋 Hi there, I'm Melvin, a Software Engineer based in Indonesia.  
-🧰 Currently playing with Javascript/Typescript & Swift
-
----
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
