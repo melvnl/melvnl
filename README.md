@@ -1,6 +1,3 @@
-
-I'm currently an engineer [@Makmur](https://www.makmur.id) working to help Indonesian people to make financial planning and long-term investments easily, and safely.
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
