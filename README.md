@@ -5,6 +5,10 @@
 2. 🔒 Closed issue [#1](https://github.com/melvnl/temanwibu/issues/1) in [melvnl/temanwibu](https://github.com/melvnl/temanwibu)
 <!--END_SECTION:activity-->
 
+# :newspaper_roll: Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # :sparkling_heart: Contributions
 
 <a href="./profile-3d-contrib/profile-night-green.svg">
