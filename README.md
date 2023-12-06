@@ -1,8 +1,8 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Reopened issue [#1](https://github.com/melvnl/temanwibu/issues/1) in [melvnl/temanwibu](https://github.com/melvnl/temanwibu)
-2. 🔒 Closed issue [#1](https://github.com/melvnl/temanwibu/issues/1) in [melvnl/temanwibu](https://github.com/melvnl/temanwibu)
+1. 🎉 Merged PR [#79](https://github.com/melvnl/melvinliu.com/pull/79) in [melvnl/melvinliu.com](https://github.com/melvnl/melvinliu.com)
+2. 💪 Opened PR [#79](https://github.com/melvnl/melvinliu.com/pull/79) in [melvnl/melvinliu.com](https://github.com/melvnl/melvinliu.com)
 <!--END_SECTION:activity-->
 
 # :newspaper_roll: Blog posts
