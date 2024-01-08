@@ -7,11 +7,11 @@
 
 # :newspaper_roll: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [the price of utilizing random uuid on database performance](https://melvinliu.com/blog/the-price-of-utilizing-random-uuid-on-database-performance)
 - [steganography the art of concealing messages](https://melvinliu.com/blog/steganography-the-art-of-concealing-messages)
 - [tabnabbing attack 101](https://melvinliu.com/blog/tabnabbing-attack-101)
 - [simplified your mundane engineering workflow with aliases](https://melvinliu.com/blog/simplified-your-mundane-engineering-workflow-with-aliases)
 - [the hidden danger of dictionary attack](https://melvinliu.com/blog/the-hidden-danger-of-dictionary-attack)
-- [react query vs redux](https://melvinliu.com/blog/react-query-vs-redux)
 <!-- BLOG-POST-LIST:END -->
 
 # :sparkling_heart: Contributions
