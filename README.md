@@ -2,8 +2,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#79](https://github.com/melvnl/melvinliu.com/pull/79) in [melvnl/melvinliu.com](https://github.com/melvnl/melvinliu.com)
-2. 💪 Opened PR [#79](https://github.com/melvnl/melvinliu.com/pull/79) in [melvnl/melvinliu.com](https://github.com/melvnl/melvinliu.com)
+1. 🗣 Commented on [#471](https://github.com/ankitects/anki-manual/issues/471#issuecomment-3692695760) in [ankitects/anki-manual](https://github.com/ankitects/anki-manual)
+2. 💪 Opened PR [#472](undefined) in [ankitects/anki-manual](https://github.com/ankitects/anki-manual)
 <!--END_SECTION:activity-->
 
 # :newspaper_roll: Blog posts
