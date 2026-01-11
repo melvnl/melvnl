@@ -2,8 +2,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#56236](https://github.com/ant-design/ant-design/issues/56236#issuecomment-3707278922) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
-2. 🎉 Merged PR [#662](https://github.com/MODSetter/SurfSense/pull/662) in [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+1. 🗣 Commented on [#472](https://github.com/ankitects/anki-manual/pull/472#issuecomment-3732463562) in [ankitects/anki-manual](https://github.com/ankitects/anki-manual)
+2. 🗣 Commented on [#56236](https://github.com/ant-design/ant-design/issues/56236#issuecomment-3707278922) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
 <!--END_SECTION:activity-->
 
 # :newspaper_roll: Blog posts
