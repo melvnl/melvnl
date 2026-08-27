@@ -2,7 +2,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#472](https://github.com/ankitects/anki-manual/pull/472#issuecomment-3732463562) in [ankitects/anki-manual](https://github.com/ankitects/anki-manual)
+1. ❗ Opened issue [#5427](https://github.com/ankitects/anki/issues/5427) in [ankitects/anki](https://github.com/ankitects/anki)
 2. 🗣 Commented on [#56236](https://github.com/ant-design/ant-design/issues/56236#issuecomment-3707278922) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
 <!--END_SECTION:activity-->
 
