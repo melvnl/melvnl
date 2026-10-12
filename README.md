@@ -38,5 +38,6 @@
 ### :newspaper_roll: Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From 3 GB to 764 MB: How We Fit 8 Million Credit Scores in Redis](https://melvinliu.com/blog/from-3gb-to-764mb-credit-scores-redis)
 - [Hello, World.](https://melvinliu.com/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
