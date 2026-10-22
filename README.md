@@ -20,7 +20,7 @@
 
 <tr><td><b>Observability</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=datadog,grafana" /></td></tr>
 
-<tr><td><b>Testing</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright" /></td></tr>
+<tr><td><b>Testing</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright,burpsuite" /></td></tr>
 
 
 </table>
