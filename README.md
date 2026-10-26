@@ -38,6 +38,7 @@
 ### :newspaper_roll: Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Rōnin: I Automated My Japan Job Hunt So I Could Actually Prepare for Interviews](https://melvinliu.com/blog/ronin-automated-job-hunt)
 - [The Algorithm Interview Is Dead - Sun Tzu, Probably](https://melvinliu.com/blog/the-algorithm-interview-is-dead)
 - [From 3 GB to 764 MB: How We Fit 8 Million Credit Scores in Redis](https://melvinliu.com/blog/from-3gb-to-764mb-credit-scores-redis)
 - [Hello, World.](https://melvinliu.com/blog/hello-world)
