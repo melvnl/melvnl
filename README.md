@@ -3,6 +3,7 @@
 ###  Areas of interest
 
 - Systems Programming
+- Agentic Engineering
 - Web Scraping & Browser Automation
 - Database & Backend Performance Tuning
 
