@@ -32,8 +32,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#5427](https://github.com/ankitects/anki/issues/5427) in [ankitects/anki](https://github.com/ankitects/anki)
-2. 🗣 Commented on [#56236](https://github.com/ant-design/ant-design/issues/56236#issuecomment-3707278922) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+1. 🎉 Merged PR [#1](https://github.com/melvnl/agent-skills/pull/1) in [melvnl/agent-skills](https://github.com/melvnl/agent-skills)
+2. 💪 Opened PR [#1](https://github.com/melvnl/agent-skills/pull/1) in [melvnl/agent-skills](https://github.com/melvnl/agent-skills)
 <!--END_SECTION:activity-->
 
 ### :newspaper_roll: Blog posts
